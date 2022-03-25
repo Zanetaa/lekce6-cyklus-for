@@ -72,9 +72,6 @@ while (vzestupna<=10) {
     vzestupna = vzestupna + 1;
 }
 
-console.log('-------------------');
-
-
 
 // Druhý příklad - zkopíruj předchozí příklad
 // a vyzkoušej, jaký je rozdíl mezi <= a <
@@ -91,9 +88,6 @@ while (vzestupnaDva<10) {
     vzestupnaDva = vzestupnaDva + 1;
 }
 
-console.log('-------------------');
-
-
 
 // Třetí příklad - vypiš sestupně čísla od 10 do 0
 console.log('Třetí příklad - sestupná řada 10 - 0');
@@ -106,5 +100,3 @@ while (sestupna) {
 console.log(sestupna);
 sestupna = sestupna -1;
 }
-
-console.log('-------------------');
